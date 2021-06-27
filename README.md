@@ -1,2 +1,2 @@
 # IPL_predictor
-Predicting the score by every IPL team during powerplay
+Predicting the powerplay score for matches in IPL
